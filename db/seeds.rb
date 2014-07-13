@@ -5,3 +5,5 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+Story.create(title: "Little Red Riding Hood", description: "All the better to see you with - a griping tale of identity theft and the grand-daughter on a quest for the truth")
+Story.create(title: "The Three Little Pig", description: "Against all odds, three brothers escape their tormentor in this action thriller")
